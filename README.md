@@ -90,3 +90,5 @@ After authentication
     -Movie suggestion
         -Movielist*n
         -Vertical scrollable
+
+        # all are working
